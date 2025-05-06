@@ -53,18 +53,6 @@ Lancer le programme :
 
 Si vous voulez seulement éxécuter le script de customisation de GNOME, allez dans le dossier config-zorin et éxécutez le fichier gnome-customization.sh
 
-Suite à la configuration, des alias seront disponibles. Un alias est une chaine de caractères qui va exécuter une commande longue pour gagner du temps. Voici ceux que vous pourrez utiliser :
-
-|    Exécutez   |        pour effectuer          |                                      Exemple                                          |
-|:--------------|:-------------------------------|:--------------------------------------------------------------------------------------|
-|   maj         |   sudo apt upgrade -y          |   maj -> mise à jour du système                                                       |
-|   install     |   sudo apt install -y          |   install **_app_** -> installe l'application **_app_**                               |
-|   remove      |   sudo apt remove -y           |   remove **_app_** -> supprimer l'application **_app_**                               |
-|   fmaj        |   flatpak update -y            |   fmaj -> mise à jour de flatpak                                                      |
-|   fsearch     |   flatpak search               |   fs **_mot-cle_** -> recherche les flatpak contenant **_mot-cle_**                   |
-|   finstall    |   flatpak install flathub -y   |   finstall **_ID_** -> installe le flatpak avec l'identifiant **_ID_** depuis flathub |
-|   fremove     |   flatpak remove -y            |   fremove **_ID_** -> supprime le flatpak avec l'identifiant **_ID_**                 |
-
 ## Script de customisation
 
 La customisation de GNOME va :
@@ -88,6 +76,18 @@ La customisation de GNOME va :
 - Désactiver la surlignement de la ligne actuelle
 
 - Afficher les numéros de ligne dans l'éditeur de texte
+
+Suite à la configuration, des alias seront disponibles. Un alias est une chaine de caractères qui va exécuter une commande longue pour gagner du temps. Voici ceux que vous pourrez utiliser :
+
+|    Exécutez   |        pour effectuer          |                                      Exemple                                          |
+|:--------------|:-------------------------------|:--------------------------------------------------------------------------------------|
+|   maj         |   sudo apt upgrade -y          |   maj -> mise à jour du système                                                       |
+|   install     |   sudo apt install -y          |   install **_app_** -> installe l'application **_app_**                               |
+|   remove      |   sudo apt remove -y           |   remove **_app_** -> supprimer l'application **_app_**                               |
+|   fmaj        |   flatpak update -y            |   fmaj -> mise à jour de flatpak                                                      |
+|   fsearch     |   flatpak search               |   fs **_mot-cle_** -> recherche les flatpak contenant **_mot-cle_**                   |
+|   finstall    |   flatpak install flathub -y   |   finstall **_ID_** -> installe le flatpak avec l'identifiant **_ID_** depuis flathub |
+|   fremove     |   flatpak remove -y            |   fremove **_ID_** -> supprime le flatpak avec l'identifiant **_ID_**                 |
 
 ### Personnalisation de ZorinOS
 
