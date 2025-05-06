@@ -103,4 +103,4 @@ Si vous souhaitez personnaliser Mint plus en profondeur, regardez cette [playlis
 
 ## Liens
 
-[Lien du repo](https://github.com/Loanbrwsk1/FR_script-de-post-installation_Mint)
+[Lien du repo](https://github.com/Loanbrwsk1/FR_Script_de_post_installation_Linux)

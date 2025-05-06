@@ -103,8 +103,8 @@ Vous pouvez choisir un fond d'écran dynamique :
 
 - sélectionnez un fond d'écran avec une horloge en bas à droite de l'image pour sélectionnez un fond d'écran dynamique
 
-Si vous souhaitez personnalisez ZorinOS plus en profondeur, regardez cette [playlist](https://youtube.com/playlist?list=PL-xp5bZmT8148dNSbLTQBhEntfp_HeXfu&si=HTQfktPsC7zkXVnr)
+Si vous souhaitez personnalisez ZorinOS plus en profondeur, regardez cette [playlist](https://youtube.com/playlist?list=PL-xp5bZmT8148dNSbLTQBhEntfp_HeXfu&si=HTQfktPsC7zkXVnr).
 
 ## Liens
 
-[Lien du repo](https://github.com/Loanbrwsk1/FR_script-de-post-installation_ZorinOS)
+[Lien du repo](https://github.com/Loanbrwsk1/FR_Script_de_post_installation_Linux)

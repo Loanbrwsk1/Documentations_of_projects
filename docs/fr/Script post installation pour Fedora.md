@@ -152,4 +152,4 @@ Si vous souhaitez personnalisez Fedora plus en profondeur, regardez cette [playl
 
 ## Liens
 
-[Lien du repo](https://github.com/Loanbrwsk1/FR_script-de-post-installation_Fedora)
+[Lien du repo](https://github.com/Loanbrwsk1/FR_Script_de_post_installation_Linux)
