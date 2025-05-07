@@ -1,12 +1,12 @@
-# Script de post installation pour Mint
+# **Script post installation Mint**
 
 Script de post-installation qui va installer certains logiciels, rajouter
 quelques fichiers tels que des fonds d'écran et mettre à jour le système en un
 seul clic pour Mint (toutes versions desktop).
 
-## Applis installées
+## **Applis installées**
 
-### Applications
+### **Applications**
 
 - aspell-fr
 - amd-ucode-firmware
@@ -37,13 +37,13 @@ seul clic pour Mint (toutes versions desktop).
 - Warehouse
 - Flatseal
 
-## Autre
+## **Autre**
 
 Mises à jour des flatpaks, des applications et du système. Vous pouvez lancer le script autant de fois que nécessaire.
 
 De plus, ce script offre la possibilité de configurer Cinnamon. Pour plus d'informations, voir [script de customisation](#script-de-customisation).
 
-## Lancer le script
+## **Lancer le script**
 
 **_VEUILLEZ AVOIR UNE CONNEXION STABLE ET ASSEZ RAPIDE (min. 2 Mo/s)_**
 
@@ -51,15 +51,15 @@ De plus, ce script offre la possibilité de configurer Cinnamon. Pour plus d'inf
 
 Lancer la programme:
 
-- Double-cliquez sur le fichier "lancer-la-configuration-de-Mint.sh"
+- Double-cliquez sur le fichier _lancer-la-configuration-de-Mint.sh_
 
-- Appuyez sur "Lancer dans un terminal" tout à droite
+- Cliquez sur _Lancer dans un terminal_ tout à droite
 
-Vous pouvez activer l'option "Activer le verrouillage du pavé numérique" dans les options de l'écran de connexion (paramètres) pour verrouiller le pavé numérique sur l'écran de verrouillage.
+Vous pouvez activer l'option _Activer le verrouillage du pavé numérique_ dans les options de l'écran de connexion (paramètres) pour verrouiller le pavé numérique sur l'écran de verrouillage.
 
-Si vous voulez seulement éxécuter le script de customisation de CINNAMON, allez dans le dossier config-lm et éxécutez le fichier cinnamon-customization.sh
+Si vous voulez seulement exécuter le script de customisation de CINNAMON, allez dans le dossier _config-lm_ et éxécutez le fichier _cinnamon-customization.sh_.
 
-## Script de customisation
+## **Script de customisation**
 
 La customisation de CINNAMON va :
 
@@ -85,15 +85,15 @@ Suite à la configuration, des alias seront disponibles. Un alias est une chaine
 |   finstall    |   flatpak install flathub -y   |   finstall **_ID_** -> installe le flatpak avec l'identifiant **_ID_** depuis flathub |
 |   fremove     |   flatpak remove -y            |   fremove **_ID_** -> supprime le flatpak avec l'identifiant **_ID_**                 |
 
-### Personnalisation de Mint
+### **Personnalisation de Mint**
 
-Pour afficher le dossier wallpapers (~/Images/) dans la fenêtre des fonds d'écran :
+Pour afficher le dossier wallpapers _~/Images/_ dans la fenêtre des fonds d'écran :
 
 - clic droit sur le bureau > modifier l'arrière plan du bureau
 
 - appuyez sur le "+" en bas à gauche
 
-- allez dans Images
+- allez dans _Images_
 
 - séléctionnez wallpapers
 
@@ -101,6 +101,6 @@ Pour afficher le dossier wallpapers (~/Images/) dans la fenêtre des fonds d'éc
 
 Si vous souhaitez personnaliser Mint plus en profondeur, regardez cette [playlist](https://youtube.com/playlist?list=PL-xp5bZmT8148dNSbLTQBhEntfp_HeXfu&si=HTQfktPsC7zkXVnr).
 
-## Liens
+## **Liens**
 
 [Lien du repo](https://github.com/Loanbrwsk1/FR_Script_de_post_installation_Linux)

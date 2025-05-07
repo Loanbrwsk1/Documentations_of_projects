@@ -12,7 +12,7 @@ theme:
         name: Switch to light mode
    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      primary: light blue
+      primary: indigo
       scheme: default
       toggle:
         icon: material/toggle-switch-off-outline

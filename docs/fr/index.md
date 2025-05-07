@@ -1,11 +1,11 @@
-# Documentation en Français
+# **Documentation en Français**
 
-## [Script de post installation pour Fedora](./Script%20post%20installation%20pour%20Fedora.md)
+## [**Script de post installation pour Fedora**](./script-post-installation-pour-fedora.md)
 
-## [Script de post installation pour Mint](./Script%20post%20installation%20pour%20Mint.md)
+## [**Script de post installation pour Mint**](./script-post-installation-pour-mint.md)
 
-## [Script de post installation pour Ubuntu](./Script%20post%20installation%20pour%20Ubuntu.md)
+## [**Script de post installation pour Ubuntu**](./script-post-installation-pour-ubuntu.md)
 
-## [Script de post installation pour ZorinOS](./Script%20post%20installation%20pour%20ZorinOS.md)
+## [**Script de post installation pour ZorinOS**](./script-post-installation-pour-zorinos.md)
 
-## [Security App](./Security%20App.md)
+## [**Security App**](./security-app.md)

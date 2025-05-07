@@ -1,8 +1,8 @@
-# Script de post installation pour ZorinOS
+# **Script post installation ZorinOS**
 
 Script qui va installer certains logiciels, rajouter quelques fichiers tels que des fonds d'écran et mettre à jour le système en un seul clic pour ZorinOS (toutes versions desktop).
 
-## Applis installées
+## **Applis installées**
 
 - aspell-fr
 - amd-ucode-firmware
@@ -33,13 +33,13 @@ Script qui va installer certains logiciels, rajouter quelques fichiers tels que 
 - Warehouse
 - Flatseal
 
-## Autres
+## **Autres**
 
 Mises à jour des flatpaks, des applications et du système. Vous pouvez lancer le script autant de fois que nécessaire.
 
 De plus, ce script offre la possibilité de configurer GNOME. Pour plus d'informations, voir [script de customisation](#script-de-customisation)
 
-## Lancer le script
+## **Lancer le script**
 
 **_VEUILLEZ AVOIR UNE CONNEXION STABLE ET ASSEZ RAPIDE (min. 2 Mo/s)_**
 
@@ -47,13 +47,13 @@ De plus, ce script offre la possibilité de configurer GNOME. Pour plus d'inform
 
 Lancer le programme :
 
-- Clic droit sur le fichier "lancer-la-configuration-de-ZorinOS.sh"
+- Clic droit sur le fichier _lancer-la-configuration-de-ZorinOS.sh_
 
-- Appuyez sur "Exécuter comme programme"
+- Appuyez sur _Exécuter comme programme_
 
-Si vous voulez seulement éxécuter le script de customisation de GNOME, allez dans le dossier config-zorin et éxécutez le fichier gnome-customization.sh
+Si vous voulez seulement éxécuter le script de customisation de GNOME, allez dans le dossier _config-zorin_ et éxécutez le fichier _gnome-customization.sh_.
 
-## Script de customisation
+## **Script de customisation**
 
 La customisation de GNOME va :
 
@@ -89,11 +89,11 @@ Suite à la configuration, des alias seront disponibles. Un alias est une chaine
 |   finstall    |   flatpak install flathub -y   |   finstall **_ID_** -> installe le flatpak avec l'identifiant **_ID_** depuis flathub |
 |   fremove     |   flatpak remove -y            |   fremove **_ID_** -> supprime le flatpak avec l'identifiant **_ID_**                 |
 
-### Personnalisation de ZorinOS
+### **Personnalisation de ZorinOS**
 
-Pour les fonds d'écrans, un dossier wallpapers à été crée dans ~/Images/
+Pour les fonds d'écrans, un dossier wallpapers à été crée dans _~/Images/_
 
-Dans ce même dossier, vous allez trouver un dossier screenshots_dynamic_wallpapers qui contient les aperçus des fonds d'écrans dynamiques.
+Dans ce même dossier, vous allez trouver un dossier _screenshots_dynamic_wallpapers_ qui contient les aperçus des fonds d'écrans dynamiques.
 
 Vous pouvez choisir un fond d'écran dynamique :
 
@@ -105,6 +105,6 @@ Vous pouvez choisir un fond d'écran dynamique :
 
 Si vous souhaitez personnalisez ZorinOS plus en profondeur, regardez cette [playlist](https://youtube.com/playlist?list=PL-xp5bZmT8148dNSbLTQBhEntfp_HeXfu&si=HTQfktPsC7zkXVnr).
 
-## Liens
+## **Liens**
 
 [Lien du repo](https://github.com/Loanbrwsk1/FR_Script_de_post_installation_Linux)
