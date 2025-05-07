@@ -1,7 +1,27 @@
+#script-post-installation-fedora{
+    color: rgb(64, 81, 181);
+}
+
+#script-post-installation-mint{
+    color: rgb(64, 81, 181);
+}
+
+#script-post-installation-ubuntu{
+    color: rgb(64, 81, 181);
+}
+
+#script-post-installation-zorinos{
+    color: rgb(64, 81, 181);
+}
+
+#security-app{
+    color: rgb(64, 81, 181);
+}
+
 h2 {
-    color: green;
+    color: rgb(81, 96, 184);
 }
 
 h3 {
-    color: rgb(0, 101, 0);
+    color: rgb(99, 112, 187);
 }
