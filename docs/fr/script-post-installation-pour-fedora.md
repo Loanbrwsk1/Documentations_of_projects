@@ -136,7 +136,7 @@ Suite à la configuration, des alias seront disponibles. Un alias est une chaine
 
 ### **Personnalisation de Fedora**
 
-Pour les fonds d'écrans, un dossier wallpapers à été crée dans _~/Images/_
+Pour les fonds d'écrans, un dossier `wallpapers` à été crée dans _~/Images/_
 
 Dans ce même dossier, vous allez trouver un dossier _screenshots_dynamic_wallpapers_ qui contient les aperçus des changements fonds d'écrans dynamiques.
 
