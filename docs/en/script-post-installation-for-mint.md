@@ -93,4 +93,4 @@ If you'd like to further customize Mint, check this [playlist](https://youtube.c
 
 ## **Links**
 
-[Repository link](https://github.com/Loanbrwsk1/FR_Script_de_post_installation_Linux)
+[Repository link](https://github.com/Loanbrwsk1/EN_Post_installation_script_for_Linux)
