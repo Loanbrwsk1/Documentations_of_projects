@@ -1,37 +1,54 @@
+h1 {
+    background-color: rgb(64, 81, 181);
+    text-align: center;
+}
+
+#home{
+    color: rgb(230, 230, 230);
+}
+
+#documentation-in-english{
+    color: rgb(230, 230, 230);
+}
+
+#documentation-en-francais{
+    color: rgb(230, 230, 230);
+}
+
 #script-post-installation-fedora{
-    color: rgb(64, 81, 181);
+    color: rgb(230, 230, 230);
 }
 
 #script-post-installation-mint{
-    color: rgb(64, 81, 181);
+    color: rgb(230, 230, 230);
 }
 
 #script-post-installation-ubuntu{
-    color: rgb(64, 81, 181);
+    color: rgb(230, 230, 230);
 }
 
 #script-post-installation-zorinos{
-    color: rgb(64, 81, 181);
+    color: rgb(230, 230, 230);
 }
 
 #post-installation-script-for-fedora{
-    color: rgb(64, 81, 181);
+    color: rgb(230, 230, 230);
 }
 
 #post-installation-script-for-mint{
-    color: rgb(64, 81, 181);
+    color: rgb(230, 230, 230);
 }
 
 #post-installation-script-for-ubuntu{
-    color: rgb(64, 81, 181);
+    color: rgb(230, 230, 230);
 }
 
 #post-installation-script-for-zorinos{
-    color: rgb(64, 81, 181);
+    color: rgb(230, 230, 230);
 }
 
 #security-app{
-    color: rgb(64, 81, 181);
+    color: rgb(230, 230, 230);
 }
 
 h2 {
