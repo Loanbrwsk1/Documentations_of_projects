@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://mydomain.org/mysite/index.html</loc>
-         <lastmod>2025-05-08</lastmod>
+         <lastmod>2025-05-12</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/en/index.html</loc>
-         <lastmod>2025-05-08</lastmod>
+         <lastmod>2025-05-12</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/en/script-post-installation-for-fedora.html</loc>
-         <lastmod>2025-05-08</lastmod>
+         <lastmod>2025-05-12</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/en/script-post-installation-for-mint.html</loc>
-         <lastmod>2025-05-08</lastmod>
+         <lastmod>2025-05-12</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/en/script-post-installation-for-ubuntu.html</loc>
-         <lastmod>2025-05-08</lastmod>
+         <lastmod>2025-05-12</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/en/script-post-installation-for-zorinos.html</loc>
-         <lastmod>2025-05-08</lastmod>
+         <lastmod>2025-05-12</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/en/security-app.html</loc>
-         <lastmod>2025-05-08</lastmod>
+         <lastmod>2025-05-12</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/fr/index.html</loc>
-         <lastmod>2025-05-08</lastmod>
+         <lastmod>2025-05-12</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/fr/script-post-installation-pour-fedora.html</loc>
-         <lastmod>2025-05-08</lastmod>
+         <lastmod>2025-05-12</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/fr/script-post-installation-pour-mint.html</loc>
-         <lastmod>2025-05-08</lastmod>
+         <lastmod>2025-05-12</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/fr/script-post-installation-pour-ubuntu.html</loc>
-         <lastmod>2025-05-08</lastmod>
+         <lastmod>2025-05-12</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/fr/script-post-installation-pour-zorinos.html</loc>
-         <lastmod>2025-05-08</lastmod>
+         <lastmod>2025-05-12</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/fr/security-app.html</loc>
-         <lastmod>2025-05-08</lastmod>
+         <lastmod>2025-05-12</lastmod>
     </url>
 </urlset>
