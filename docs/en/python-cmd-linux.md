@@ -17,6 +17,8 @@ The basic commands are implemented:
 - cat
 - pwd
 - clear
+- cd
+- mv
 
 With a minimal tree:
 

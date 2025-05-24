@@ -17,6 +17,8 @@ Les commandes de bases sont implémentées:
 - cat
 - pwd
 - clear
+- cd
+- mv
 
 Avec une arborescence minimale:
 
