@@ -9,3 +9,5 @@
 ## [**Script de post installation pour ZorinOS**](./script-post-installation-pour-zorinos.md)
 
 ## [**Security App**](./security-app.md)
+
+## [**CMD Linux Python**](./cmd-linux-pyton.md)
