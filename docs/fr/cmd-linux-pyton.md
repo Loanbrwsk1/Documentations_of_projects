@@ -1,6 +1,6 @@
-# CMD Linux Python
+# **CMD Linux Python**
 
-## Descirption
+## **Descirption**
 
 Ce projet vise à créer un environnement minimal linux en Python.
 Les commandes de bases sont implémentées:
@@ -28,10 +28,14 @@ Avec une arborescence minimale:
 - /home/user/Documents
 - /home/user/text.txt
 
-## Comment ça marche
+## **Comment ça marche**
 
 Ecrivez vos commandes dans la barre du haut et appuyez sur _Entrée_ pour voir le résultat de cette commande.
 
-## Link
+## **Problème d'affichage**
+
+Si le terminal semble ne pas être correctement affiché, veuillez vérifier que vous n'avez pas votre écran zoomé. Il faut que l'échelle soit à 100%.
+
+## **Link**
 
 [Lien du repo](https://github.com/Loanbrwsk1/CMD-Linux-Python)

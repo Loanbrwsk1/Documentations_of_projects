@@ -1,6 +1,6 @@
-# Python CMD Linux
+# **Python CMD Linux**
 
-## Descirption
+## **Descirption**
 
 This project aims to create a minimal linux environment in Python.
 The basic commands are implemented:
@@ -28,10 +28,14 @@ With a minimal tree:
 - /home/user/Documents
 - /home/user/text.txt
 
-## How it works
+## **How it works**
 
 Write down your commandes in the top bar and press _Return_ to see the result.
 
-## Link
+## **Display issue**
+
+If the CMD seems not to be correctly displayed, plaease check if your display is zoomed. The scale must be at 100%.
+
+## **Link**
 
 [Repository link](https://github.com/Loanbrwsk1/CMD-Linux-Python)

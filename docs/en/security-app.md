@@ -16,6 +16,10 @@ All this settings and datas will be saved in the user_data.json file.
 
 To execute the .exe file, you need to make a shortcut of it on your desktop, else you have to find the file to execute it. You can't copy/paste the file on your desktop, it will not work.
 
+## **Display issue**
+
+If the window seems not to be correctly displayed, plaease check if your display is zoomed. The scale must be at 100%.
+
 ## **Links**
 
 [Link to the repo](https://github.com/Loanbrwsk1/Security-App)
