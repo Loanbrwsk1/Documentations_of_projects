@@ -81,13 +81,17 @@ After configuration, aliases will be available. An alias is a shortcut string th
 
 ### **Mint Customization**
 
-To display the `wallpapers` folder from _~/Images/_ in the wallpaper settings window:
+To display the `wallpapers` folder in the wallpaper settings window:
 
-- Right-click on the desktop > change desktop background  
-- Click the "+" at the bottom left  
-- Go to _Images_  
-- Select `wallpapers`  
-- Click _Open_ in the bottom right  
+- Right-click on the desktop > change desktop background
+
+- Click the "+" at the bottom left
+
+- Go to `Pictures`
+
+- Select `wallpapers`
+
+- Click _Open_ in the bottom right
 
 If you'd like to further customize Mint, check this [playlist](https://youtube.com/playlist?list=PL-xp5bZmT8148dNSbLTQBhEntfp_HeXfu&si=HTQfktPsC7zkXVnr).
 

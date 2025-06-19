@@ -121,14 +121,14 @@ After configuration, aliases will be available. An alias is a shortcut string th
 
 ### **Fedora Customization**
 
-For wallpapers, a folder named `wallpapers` is created in _~/Images/_
+Inside `~/Pictures/`, there's a `screenshots_dynamic_wallpapers` subfolder with previews of the dynamic wallpapers.
 
-Inside this folder, there's a _screenshots_dynamic_wallpapers_ subfolder with previews of the dynamic wallpapers.
+To choose a wallpaper:
 
-To choose a dynamic wallpaper:
+- Right-click on the desktop
 
-- Right-click on the desktop  
-- Click on _Change Background..._  
+- Click on _Change Background..._
+
 - Choose a wallpaper with a clock icon in the lower-left corner (indicates dynamic)  
 
 If you'd like to further customize Fedora, check this [playlist](https://youtube.com/playlist?list=PL-xp5bZmT8148dNSbLTQBhEntfp_HeXfu&si=HTQfktPsC7zkXVnr).

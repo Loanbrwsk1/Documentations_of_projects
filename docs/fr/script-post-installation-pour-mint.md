@@ -87,13 +87,13 @@ Suite à la configuration, des alias seront disponibles. Un alias est une chaine
 
 ### **Personnalisation de Mint**
 
-Pour afficher le dossier `wallpapers` _~/Images/_ dans la fenêtre des fonds d'écran :
+Pour afficher le dossier `wallpapers` dans la fenêtre des fonds d'écran :
 
 - clic droit sur le bureau > modifier l'arrière plan du bureau
 
 - appuyez sur le "+" en bas à gauche
 
-- allez dans _Images_
+- allez dans `Images`
 
 - séléctionnez `wallpapers`
 

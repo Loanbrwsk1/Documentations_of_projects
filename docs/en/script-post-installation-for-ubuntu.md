@@ -81,14 +81,14 @@ After configuration, aliases will be available. An alias is a shortcut string th
 
 ### **Ubuntu Customization**
 
-For wallpapers, a `wallpapers` folder is created in _~/Images/_.
+Inside `~/Pictures/`, there's a `screenshots_dynamic_wallpapers` subfolder with previews of the dynamic wallpapers.
 
-Inside it, you'll find a _screenshots_dynamic_wallpapers_ folder with previews of dynamic wallpapers.
+To choose a wallpaper:
 
-To choose a dynamic wallpaper:
+- Right-click on the desktop
 
-- Right-click on the desktop  
 - Change the wallpaper  
+
 - Select a wallpaper with a clock icon in the bottom right (indicates dynamic)  
 
 If you'd like to further customize Ubuntu, check this [playlist](https://youtube.com/playlist?list=PL-xp5bZmT8148dNSbLTQBhEntfp_HeXfu&si=HTQfktPsC7zkXVnr).
